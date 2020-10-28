@@ -1,11 +1,6 @@
-# airbnb.analysis
+# Air Bread and Breakfast Analyses and Visualization
 Showcases data analysis of Airbnb listings
 
-# Git hub url
-https://github.com/manjukiruthika/airbnb.analysis.git
-
-# Blog post link
-https://medium.com/@manjukiruthika/under-the-lens-seattle-airbnb-listings-993d6311cf44
 
 ## Motivation
 The aim of the project is to perform analysis on airbnb listings and provide useful insights.
