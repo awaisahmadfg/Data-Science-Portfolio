@@ -33,7 +33,7 @@ When a listing as not available in the calendar data we consider those records a
 - Observation: Month of december seems to be the most busiest indicating winter holiday period around Xmas and new year. 
 The month of august is next busiest indicating school holiday period in summer. Jan is least busier than all the other months.
 ```
-![Alt Total_Listings_Price_per_month](https://awaisahmadfg.github.io/Total_Listings_Price_per_month.png)
+![Alt Total_Listings_Price_per_month](Plots/Total_Listings_Price_per_month.png)
 
 
 ```		
