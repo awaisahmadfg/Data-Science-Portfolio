@@ -43,7 +43,7 @@ Question 2. Which neighbourhoods in Seattle provide the most revenue?
 - Observation:Capitoal hill neighbourhood seems to make the most revenue. Either it has more listings available or it has listings which are priced higher
 
 ```
-![Alt Top_10_neighbourhood_by_listings_revenue](plots/Top_10_neighbourhood_by_listings_revenue.png)
+![Alt Top_10_neighbourhood_by_listings_revenue](Plots/Top_10_neighbourhood_by_listings_revenue.png)
 
 ```
 Question 3. Are there any property related factors that affect the price?
@@ -52,7 +52,7 @@ Question 3. Are there any property related factors that affect the price?
 - Approach: Extracting the numeric columns, I check whether there is any linear relationship between the numeric variables and price by running a correlation plot.
 - Observation: From the hierarchical correlation plot, above one could observe that there are blocks of sections which are correlated within each other. Let us take the first block which has the price field. We could observe that price is correlated with bathrooms, bedrooms, accomodates (number of people it accomodates), beds, guests included and square feet. Negative correlation between reviews per month and price indicating that high priced  properties have fewer reviews.
 ```
-![Alt Correlation plot Price and property Variables](plots/Corr_plot_Price_and_Property_Variables.png)
+![Alt Correlation plot Price and property Variables](Plots/Corr_plot_Price_and_Property_Variables.png)
 
 ```
 Question 4. Does location / neighbourhood have an effect on price? Are we seeing any pattern of listings / price on the location map?
@@ -61,7 +61,7 @@ Question 4. Does location / neighbourhood have an effect on price? Are we seeing
 - Observation: Studying the map, one could observe prevalance of low/medium/high listings. For instance, around Univeristy of Washington there are many low and medium priced listings. Around capitol hill area, there are more prevalance of medium and high price listings
 
 ```
-![Alt Seattle location and Price Ranges](plots/Seattle_Price_on_Map1.png)
+![Alt Seattle location and Price Ranges](Plots/Seattle_Price_on_Map1.png)
 
 ```
 Question 5. Are we able to predict price ranges (low/medium/high) based on property, host and review information?
@@ -74,7 +74,7 @@ Note on data processing
 Handling Categorical values - I dummy encode the categorical values so that the data could be used by any classification algorithm. Handling missing values - I observe that 75% of the data is without nulls and most of the missing information is in review scores. I decide to remove the rows with null review scores as i conduct experiments filling missing review scores with mean and observe that adding these rows did not improve the prediction.
 
 ```
-![Alt Top features that influence price](/plots/Top_20_features_price_ranges.png)
+![Alt Top features that influence price](/Plots/Top_20_features_price_ranges.png)
 ```
 Summary:
 - Through visualization and analysis, one could observe time of the year and neighbourhood which yield more revenue.
