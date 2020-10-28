@@ -74,7 +74,7 @@ Note on data processing
 Handling Categorical values - I dummy encode the categorical values so that the data could be used by any classification algorithm. Handling missing values - I observe that 75% of the data is without nulls and most of the missing information is in review scores. I decide to remove the rows with null review scores as i conduct experiments filling missing review scores with mean and observe that adding these rows did not improve the prediction.
 
 ```
-![Alt Top features that influence price](/Plots/Top_20_features_price_ranges.png)
+![Alt Top features that influence price](Plots/Top_20_features_price_ranges.png)
 ```
 Summary:
 - Through visualization and analysis, one could observe time of the year and neighbourhood which yield more revenue.
