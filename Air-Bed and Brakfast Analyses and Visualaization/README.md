@@ -1,4 +1,4 @@
-# Air Bread and Breakfast Analyses and Visualization
+# Air Bed and Breakfast Analyses and Visualization
 Showcases data analysis of Airbnb listings
 
 
