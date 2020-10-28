@@ -1,0 +1,83 @@
+,index,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+0,id,3818.0,,,,5550111.41854374,2962660.478560128,3335.0,3258256.25,6118244.5,8035126.75,10340165.0
+1,listing_url,3818,3818,https://www.airbnb.com/rooms/3543247,1,,,,,,,
+2,name,3818,3792,Capitol Hill Apartment,3,,,,,,,
+3,summary,3641,3478,"This is a modern fully-furnished studio apartment in a brand new building on Capitol Hill. At Roy Street Commons you can enjoy your complete privacy and mingle with our other guests in our common areas, when it suits you.",15,,,,,,,
+4,space,3249,3119,"*Note: This fall, there will be major renovations happening on one kitchen and bathroom at a time. There will always be two other working kitchens and two working bathrooms in the house. We'll work to minimize the impact these renovations have on your stay. **This listing is only available to those working in the tech/science space. Live in a hacker house, and immerse yourself in the Seattle tech scene. You can expect to be surrounded by smart people solving big problems or working on something fun. We have frequent demo nights, and love when our guests share something they are passionate about. If you're new to the city, our deep ties to the Seattle tech scene can help you get involved. Expand your network, develop your ideas, and learn something new by living in a hacker house. Just inquire to apply.",14,,,,,,,
+5,description,3818,3742,"Our space is a mix of a hostel and a home. We are a group of long-term residents & subletors who welcome short term guests. This is the house to meet folks whether you are moving to town or traveling through. The house offers quiet and social spaces. Our listing offers a unique Airbnb experience of staying with other Airbnb guests in a shared room as well as in a house of roommates who live in Seattle. This room is a great fit for individual or groups of travelers on a budget who are interested in meeting interesting people right in the place they are staying! We created this house so that people from around the world could meet, share experiences together and potentially create long lasting friendships that go beyond their time in our house. In a big house we are making the world smaller with more connections between people. Below is more information about your shared room, about us and about our house. Read through and see if we are a good fit for your trip! ABOUT YOUR SHARED ROOM:  ",10,,,,,,,
+6,neighborhood_overview,2786,2506,"Wallingford is a mostly-residential neighborhood, situated between the restaurants, bars and nightlife of Fremont or Ballard, and the buzzing, academic University District.",17,,,,,,,
+7,notes,2212,1999,"All of our rentals are fully licensed and regulated, and maintaining excellent relationships with our building managers is our top priority. We furnish all of our properties to a uniform standard, but individual units may differ slightly from the pictures shown.",39,,,,,,,
+8,transit,2884,2574,Convenient public transportation. The locations of our properties are ideal for guests who prefer to travel without a car.,32,,,,,,,
+9,thumbnail_url,3498,3498,https://a2.muscache.com/ac/pictures/226cdb2c-abd8-43e0-8075-e6b3b355294e.jpg?interpolation=lanczos-none&size=small&output-format=jpg&output-quality=70,1,,,,,,,
+10,medium_url,3498,3498,https://a0.muscache.com/im/pictures/32674198/e9175bb9_original.jpg?aki_policy=medium,1,,,,,,,
+11,picture_url,3818,3818,https://a2.muscache.com/ac/pictures/33456872/ece9c22a_original.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70,1,,,,,,,
+12,xl_picture_url,3498,3498,https://a0.muscache.com/ac/pictures/87210986/123f2797_original.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70,1,,,,,,,
+13,host_id,3818.0,,,,15785555.107647983,14583815.274694048,4193.0,3275204.0,10558142.0,25903093.25,53208610.0
+14,host_url,3818,2751,https://www.airbnb.com/users/show/8534462,46,,,,,,,
+15,host_name,3816,1466,Andrew,56,,,,,,,
+16,host_since,3816,1380,2013-08-30,51,,,,,,,
+17,host_location,3810,120,"Seattle, Washington, United States",3259,,,,,,,
+18,host_about,2959,2011,It would be my pleasure to share and explore this wonderful city with you!,46,,,,,,,
+19,host_response_time,3295,4,within an hour,1692,,,,,,,
+20,host_response_rate,3295.0,,,,94.88679817905918,11.866705241858021,17.0,98.0,100.0,100.0,100.0
+21,host_acceptance_rate,3045,2,100%,3044,,,,,,,
+22,host_is_superhost,3816,2,f,3038,,,,,,,
+23,host_thumbnail_url,3816,2743,"https://a2.muscache.com/ac/pictures/a4d7d053-c04c-47c2-8264-1163be7a4902.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=50:*&output-format=jpg&output-quality=70",46,,,,,,,
+24,host_picture_url,3816,2743,"https://a2.muscache.com/ac/pictures/a4d7d053-c04c-47c2-8264-1163be7a4902.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=225:*&output-format=jpg&output-quality=70",46,,,,,,,
+25,host_neighbourhood,3518,102,Capitol Hill,405,,,,,,,
+26,host_listings_count,3816.0,,,,7.1577568134171905,28.6281489498204,1.0,1.0,1.0,3.0,502.0
+27,host_total_listings_count,3816.0,,,,7.1577568134171905,28.6281489498204,1.0,1.0,1.0,3.0,502.0
+28,host_verifications,3818,116,"['email', 'phone', 'facebook', 'reviews', 'kba']",595,,,,,,,
+29,host_has_profile_pic,3816,2,t,3809,,,,,,,
+30,host_identity_verified,3816,2,t,2997,,,,,,,
+31,street,3818,1442,"1st Avenue, Seattle, WA 98101, United States",30,,,,,,,
+32,neighbourhood,3402,81,Capitol Hill,351,,,,,,,
+33,neighbourhood_cleansed,3818,87,Broadway,397,,,,,,,
+34,neighbourhood_group_cleansed,3818,17,Other neighborhoods,794,,,,,,,
+35,city,3818,7,Seattle,3810,,,,,,,
+36,state,3818,2,WA,3817,,,,,,,
+37,zipcode,3811,28,98122,420,,,,,,,
+38,smart_location,3818,7,"Seattle, WA",3810,,,,,,,
+39,latitude,3818.0,,,,47.62896083310482,0.04305195009209588,47.50508834369015,47.609417699011786,47.623600930874645,47.66269384480394,47.73335790856483
+40,longitude,3818.0,,,,-122.3331032929215,0.03174450925314791,-122.41721881425622,-122.35432047666171,-122.32887443486538,-122.31079967903582,-122.24060703053992
+41,is_location_exact,3818,2,t,3412,,,,,,,
+42,property_type,3817,16,House,1733,,,,,,,
+43,room_type,3818,3,Entire home/apt,2541,,,,,,,
+44,accommodates,3818.0,,,,3.3493975903614457,1.9775994433685948,1.0,2.0,3.0,4.0,16.0
+45,bathrooms,3802.0,,,,1.2594687006838505,0.5903691064636677,0.0,1.0,1.0,1.0,8.0
+46,bedrooms,3812.0,,,,1.3077124868835257,0.8833949168311118,0.0,1.0,1.0,2.0,7.0
+47,beds,3817.0,,,,1.7353942887084097,1.1394797526995217,1.0,1.0,1.0,2.0,15.0
+48,bed_type,3818,5,Real Bed,3657,,,,,,,
+49,amenities,3818,3284,{},45,,,,,,,
+50,square_feet,97.0,,,,854.6185567010309,671.404892794749,0.0,420.0,750.0,1200.0,3000.0
+51,price,3818.0,,,,127.97616553169199,90.2500221614799,20.0,75.0,100.0,150.0,1000.0
+52,weekly_price,2009,395,$500.00,94,,,,,,,
+53,monthly_price,1517,356,"$2,500.00",66,,,,,,,
+54,security_deposit,1866,46,$100.00,348,,,,,,,
+55,cleaning_fee,2788,118,$50.00,310,,,,,,,
+56,guests_included,3818.0,,,,1.6726034573074908,1.311039593501312,0.0,1.0,1.0,2.0,15.0
+57,extra_people,3818,45,$0.00,2048,,,,,,,
+58,minimum_nights,3818.0,,,,2.36930330015715,16.305902070200982,1.0,1.0,2.0,2.0,1000.0
+59,maximum_nights,3818.0,,,,780.4476165531692,1683.5890074589977,1.0,60.0,1125.0,1125.0,100000.0
+60,calendar_updated,3818,34,today,706,,,,,,,
+61,availability_30,3818.0,,,,16.78627553693033,12.173636792603201,0.0,2.0,20.0,30.0,30.0
+62,availability_60,3818.0,,,,36.81482451545312,23.337541400049254,0.0,13.0,46.0,59.0,60.0
+63,availability_90,3818.0,,,,58.08250392875851,34.06384538319797,0.0,28.0,73.0,89.0,90.0
+64,availability_365,3818.0,,,,244.7726558407543,126.77252630414684,0.0,124.0,308.0,360.0,365.0
+65,number_of_reviews,3818.0,,,,22.22341540073337,37.73089228063948,0.0,2.0,9.0,26.0,474.0
+66,first_review,3191,984,2015-09-21,25,,,,,,,
+67,last_review,3191,321,2016-01-02,94,,,,,,,
+68,review_scores_rating,3171.0,,,,94.53926206244087,6.606083179599051,20.0,93.0,96.0,99.0,100.0
+69,review_scores_accuracy,3160.0,,,,9.63639240506329,0.6980311645060037,2.0,9.0,10.0,10.0,10.0
+70,review_scores_cleanliness,3165.0,,,,9.556398104265403,0.7972739066160753,3.0,9.0,10.0,10.0,10.0
+71,review_scores_checkin,3160.0,,,,9.786708860759493,0.5954990437936796,2.0,10.0,10.0,10.0,10.0
+72,review_scores_communication,3167.0,,,,9.809598989580044,0.5682114414300821,2.0,10.0,10.0,10.0,10.0
+73,review_scores_location,3163.0,,,,9.608915586468543,0.6290532278435134,4.0,9.0,10.0,10.0,10.0
+74,review_scores_value,3162.0,,,,9.452245414294751,0.750258640958125,2.0,9.0,10.0,10.0,10.0
+75,instant_bookable,3818,2,f,3227,,,,,,,
+76,cancellation_policy,3818,3,strict,1417,,,,,,,
+77,require_guest_profile_picture,3818,2,f,3497,,,,,,,
+78,require_guest_phone_verification,3818,2,f,3443,,,,,,,
+79,calculated_host_listings_count,3818.0,,,,2.9463069669984283,5.893029343748268,1.0,1.0,1.0,2.0,37.0
+80,reviews_per_month,3191.0,,,,2.078918834221248,1.8223478061662373,0.02,0.695,1.54,3.0,12.15
+81,host_since_in_years,3816.0,,,,4.527253668763103,1.5878937159225914,2.0,3.0,4.0,6.0,9.0
