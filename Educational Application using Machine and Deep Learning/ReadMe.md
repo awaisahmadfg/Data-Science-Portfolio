@@ -5,8 +5,6 @@
 ![](images/Pic.PNG)
 
 
-A [Flask](http://flask.pocoo.org/) web app for handwritten character recognition (0-9,A-Z,a-z) using a convolutional neural network. The model was trained on the EMNIST dataset from [Kaggle](https://www.kaggle.com/crawford/emnist) using the [Keras API](https://github.com/fchollet/keras).
-
 # Handwritten-Text-Recognition-System
 Handwritten Text Recognition System using Convolutional Neural Network.           
 Dataset - EMNIST Byclass: 814,255 characters and 62 unbalanced classes.       
@@ -23,7 +21,7 @@ Final_GUI.ipynb file:
 2. GUI using Gradio tool
 
 
-
+A [Flask](http://flask.pocoo.org/) web app for handwritten character recognition (0-9,A-Z,a-z) using a convolutional neural network. The model was trained on the EMNIST dataset from [Kaggle](https://www.kaggle.com/crawford/emnist) using the [Keras API](https://github.com/fchollet/keras).
 
 ## To Run the Flask App
 Clone or download this repository. Then open shell prompt and navigate to this repository. Run the following command:
