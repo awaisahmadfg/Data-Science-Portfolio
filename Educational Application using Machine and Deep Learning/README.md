@@ -3,7 +3,7 @@
 
 ![](https://github.com/jayeshsaini/emnist-flask/blob/master/media/screenshot.png)
 <img
-src=“C:/Users/hp/Desktop/Pic.png”
+src=“Pic.png”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
