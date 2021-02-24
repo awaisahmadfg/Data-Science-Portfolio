@@ -2,6 +2,12 @@
 ### GOAL : EMNIST Handwritten Character Recognition  
 
 ![](https://github.com/jayeshsaini/emnist-flask/blob/master/media/screenshot.png)
+<img
+src=“images/SubPronouns.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 A [Flask](http://flask.pocoo.org/) web app for handwritten character recognition (0-9,A-Z,a-z) using a convolutional neural network. The model was trained on the EMNIST dataset from [Kaggle](https://www.kaggle.com/crawford/emnist) using the [Keras API](https://github.com/fchollet/keras).
 
